@@ -1,0 +1,35 @@
+.navbar_bg {
+  background: rgb(4, 8, 49);
+  height: auto;
+}
+
+.oceantoken_heading {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  padding: 0.5rem;
+  margin-left: 2.5rem;
+}
+
+.connect_button {
+  margin-top: -2.8rem;
+  margin-right: 3rem;
+  cursor: pointer;
+  float: right;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 0.5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  line-height: 1rem;
+  color: rgba(2, 0, 36, 1);
+  width: auto;
+  height: auto;
+  border: 0.01rem solid rgba(2, 0, 36, 1);
+  border-radius: 0.3rem;
+  background: white;
+  position: relative;
+}
