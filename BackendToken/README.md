@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# Ocean Token Faucet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+#### In this Project I have created OCT Token contract and a Faucet contract and with the faucet anyone can get 50 OCT/min
 
-Try running some of the following tasks:
+Please check the clip below how thiscontract works!!!
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+https://user-images.githubusercontent.com/65470058/211825966-ea598500-7b78-41e1-8d95-927752da181e.mp4
+
